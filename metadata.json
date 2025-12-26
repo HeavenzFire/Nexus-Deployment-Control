@@ -1,0 +1,9 @@
+{
+  "name": "Nexus Deployment Control",
+  "description": "Real-time command and control interface for decentralized mobile mesh infrastructure. Manages L1-L4 operations, node provisioning, and incentive settlement.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation",
+    "microphone"
+  ]
+}
